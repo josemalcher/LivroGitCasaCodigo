@@ -21,9 +21,8 @@
 - Usando em diversos projetos, como no desenvolvimento do Kernel do Linux.
 
 1.5 Hospedando código no GitHub  
-- Em 2008 nasceu o GitHub - Aplicação web que possibilita a hospedatem de repositórios Git, além de ser uma rede social para programadores.  
+- Em 2008 nasceu o GitHub - Aplicação web que possibilita a hospedagem de repositórios Git, além de ser uma rede social para programadores.  
 - Diversos projetos de código abertos como: jQuery, Node.js, etc...
 
 1.6 O processo de escrita desse livro  
 A utilização do Git não é restrita apenas ao desenvolvimento de software, muitos administradores de rede, por exemplo, utilizam o Git para manter o histórico de evolução de arquivos de configurações em servidores.
-
